@@ -1,6 +1,7 @@
 # StackPay: Decentralized sBTC Payment Infrastructure
 
-![StackPay Logo](assets/logo.png)
+<img width="301" height="247" alt="image" src="https://github.com/user-attachments/assets/513ace60-4131-41e4-8998-a54243990aa7" />
+
 
 [![SDK Version](https://img.shields.io/npm/v/@stackpay/sdk.svg)](https://www.npmjs.com/package/@stackpay/sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
