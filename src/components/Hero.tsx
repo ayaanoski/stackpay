@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
   return (
     <section id="vision" ref={heroRef} className="min-h-screen flex items-center justify-center pt-16 px-4 sm:px-6">
       <div className="max-w-7xl mx-auto w-full text-center">
-        <h1 ref={titleRef} className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 sm:mb-8 md:mb-12 gradient-text leading-tight tracking-wider">
+        <h1 ref={titleRef} className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 sm:mb-8 md:mb-12 mt-10 gradient-text leading-tight tracking-wider">
           STACKPAY
         </h1>
         
